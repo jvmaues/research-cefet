@@ -1,0 +1,61 @@
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+dwt_918,25/02/2022 00:22:56,395,147,145,147,159,181,127,179,127,161,127,173,145
+bcspwr04,25/02/2022 00:22:59,499,161,113,101,137,137,101,151,133,133,133,151,113
+can_445,25/02/2022 00:23:10,815,205,237,297,205,205,297,227,189,227,189,227,297
+gre__512,25/02/2022 00:23:21,129,77,73,73,199,199,73,199,73,199,73,199,73
+gr_30_30,25/02/2022 00:24:00,119,119,119,119,227,225,119,225,119,231,119,227,119
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+dwt_918,25/02/2022 00:28:41,395,147,145,147,159,181,127,179,127,161,127,173,145
+bcspwr04,25/02/2022 00:28:46,499,161,113,101,137,137,101,151,133,133,133,151,113
+can_445,25/02/2022 00:28:56,815,205,237,297,205,205,297,227,189,227,189,227,297
+gre__512,25/02/2022 00:29:08,129,77,73,73,199,199,73,199,73,199,73,199,73
+gr_30_30,25/02/2022 00:29:47,119,119,119,119,227,225,119,225,119,231,119,227,119
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+instance,timestamp,original_band,biggest_degree,smallest_degree,smallest_eigenvector,biggest_eigenvector,biggest_katz,smallest_katz,biggest_closeness,smallest_closeness,biggest_harmonic,smallest_harmonic,biggest_betweenness,smallest_betweenness
+dwt_918,25/02/2022 01:23:41,395,147,145,147,159,error,error,179,127,161,127,173,145
+bcspwr04,25/02/2022 01:23:44,499,161,113,101,137,error,error,151,133,133,133,151,113
+can_445,25/02/2022 01:23:55,815,205,237,297,205,error,error,227,189,227,189,227,297
+gre__512,25/02/2022 01:24:06,129,77,73,73,199,error,error,199,73,199,73,199,73
+gr_30_30,25/02/2022 01:24:43,119,119,119,119,227,error,error,225,119,231,119,227,119
+bcsstm07,25/02/2022 01:24:58,147,135,105,111,129,error,error,207,105,207,111,207,101
+impcol_a,25/02/2022 01:25:00,319,137,141,123,141,error,error,175,123,141,123,141,119
+bcsstk06,25/02/2022 01:25:17,147,127,99,101,173,error,error,207,99,207,99,219,101
+fs_760_1,25/02/2022 01:25:56,1399,83,83,error,error,error,error,159,125,159,125,177,83
+dwt_592,25/02/2022 01:26:13,617,137,85,85,137,error,error,141,85,137,85,147,85
+hor__131,25/02/2022 01:26:23,777,141,203,205,141,error,error,141,185,141,187,163,203
+ash292,25/02/2022 01:26:26,59,75,69,65,75,error,error,99,65,99,65,75,69
+gre__343,25/02/2022 01:26:31,99,65,57,57,169,error,error,169,57,169,57,169,57
+can_292,25/02/2022 01:26:35,447,141,129,151,141,error,error,301,151,165,151,165,151
+can_838,25/02/2022 01:27:14,1211,327,367,243,329,error,error,327,255,327,253,327,367
+dwt_221,25/02/2022 01:27:17,297,53,63,37,63,error,error,69,37,53,37,53,63
+bcsstk20,25/02/2022 01:27:27,41,41,41,41,41,error,error,45,41,41,41,43,39
+dwt_310,25/02/2022 01:27:33,53,73,27,error,error,error,error,53,31,73,31,73,49
+bcsstk19,25/02/2022 01:28:07,1007,65,45,error,error,error,error,65,45,69,45,65,65
+dwt_878,25/02/2022 01:28:46,83,151,75,151,153,error,error,167,75,167,151,153,75
+dwt_419,25/02/2022 01:28:55,711,83,139,65,145,error,error,145,67,131,69,129,71
+impcol_e,25/02/2022 01:28:57,229,157,157,151,179,error,error,209,151,209,151,181,197
+dwt_209,25/02/2022 01:28:59,389,105,85,73,105,error,error,105,73,105,73,105,105
+bp_0,25/02/2022 01:29:27,1549,863,813,1031,863,error,error,863,813,863,813,863,869
+bp_800,25/02/2022 01:30:03,1643,957,947,1097,957,error,error,957,1097,957,1097,957,975
+bp_1000,25/02/2022 01:30:38,1643,959,1065,1035,959,error,error,959,1035,959,1035,959,1009
+685_bus,25/02/2022 01:30:53,1177,147,171,163,165,error,error,169,205,169,165,169,171
+494_bus,25/02/2022 01:31:00,853,127,169,165,171,error,error,161,127,161,127,183,169
+bp_1400,25/02/2022 01:31:37,1643,973,1073,1091,973,error,error,973,1091,973,1091,973,967
+bcspwr05,25/02/2022 01:31:43,825,121,167,119,149,error,error,195,133,195,133,195,149
+bp_1200,25/02/2022 01:32:20,1643,955,1095,1093,955,error,error,955,1093,955,1093,955,1013
+bp_400,25/02/2022 01:32:54,1627,931,1061,1061,931,error,error,931,1061,931,1061,931,943
+dwt_245,25/02/2022 01:32:57,195,67,67,111,77,error,error,129,111,125,111,129,91
+impcol_d,25/02/2022 01:33:04,829,151,141,123,151,error,error,187,149,159,149,153,141
+662_bus,25/02/2022 01:33:17,697,221,225,251,269,error,error,271,251,271,251,271,215
+bp_600,25/02/2022 01:33:52,1627,931,1083,1083,931,error,error,931,1083,931,1083,931,973
+gre_216a,25/02/2022 01:33:54,73,53,43,43,117,error,error,117,43,117,43,117,43
+can_715,25/02/2022 01:34:17,779,325,279,297,325,error,error,325,293,325,293,325,301
+dwt_992,25/02/2022 01:35:28,133,127,131,131,247,error,error,231,131,231,131,247,131
+bp_1600,25/02/2022 01:36:06,1643,951,1067,1121,951,error,error,951,1121,951,1121,951,967
+fs_680_1,25/02/2022 01:36:25,1269,57,35,error,error,error,error,69,51,69,51,69,35
+dwt_361,25/02/2022 01:36:31,77,51,51,31,99,error,error,97,31,97,31,97,51
+fs_541_1,25/02/2022 01:36:38,1081,1081,1071,1071,1081,error,error,1081,1071,1081,1071,1081,1067
+bp_200,25/02/2022 01:37:10,1633,931,883,883,931,error,error,931,883,931,883,931,909
+dwt_503,25/02/2022 01:37:24,865,185,129,129,161,error,error,193,129,185,129,185,163

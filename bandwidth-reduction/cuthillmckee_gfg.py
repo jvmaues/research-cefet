@@ -49,8 +49,7 @@ class ReorderingSSM:
 		for i in range(len(degrees)):
 			notVisited.append((i, degrees[i]))
 
-		# Vector notVisited helps in running BFS
-		# even when there are dijoind graphs
+		# Vector notVisited helps in running BFS even when there are dijoind graphs
 		while len(notVisited):
 
 			minNodeIndex = 0
